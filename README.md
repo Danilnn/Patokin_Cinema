@@ -1,2 +1,2 @@
-# Patokin_Zikrilloev_Cinema
+# Patokin_Cinema
 Шапка кинотеатра
